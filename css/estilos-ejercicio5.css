@@ -1,18 +1,12 @@
 body {
     background-color: #002E6F;
 }
-{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
+
 .contenedor-formulario{
     width: 600px;
-    height: 500px;
     background: #24303c;
     padding: 60px;
-    margin: auto;
-    margin-top: 100px;
+    margin: 50px auto;
     border-radius:9px ;
     font-family: calibri;
     color: white;
@@ -40,4 +34,5 @@ body {
     color: white;
     font-family: calibri; 
     margin: 7px 0;
+    padding: 8px;
 }
