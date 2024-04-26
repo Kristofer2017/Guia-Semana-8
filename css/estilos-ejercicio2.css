@@ -1,14 +1,14 @@
 body {
-    background-image: url(../imagenes/bg-ejercicio-2.jpg);
+    background-color: #7f9ff7;
 }
 
 #titulo-ejercicio-2 {
-    background-color: #c1cae0;
+    background-color: #afc5fd;
     font-family: Verdana, Tahoma, sans-serif;
     border: solid 1px #424f74;
     font-weight: 300;
     font-size: 26px;
-    width: 750px;
+    width: 700px;
     height: 2.5em;
     line-height: 2.5em;
     margin: 30px auto 0;
@@ -29,7 +29,7 @@ body {
     border-radius: 20px;
     text-align: center;
     padding: 20px 0;
-    border: dashed 2px #7a91cf;
+    border: solid 2px #7a91cf;
 }
 
 .ejercicio-2 a img {

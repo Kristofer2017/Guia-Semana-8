@@ -1,0 +1,60 @@
+body{
+    background-image: url('../imagenes/fondo1.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1 {
+    text-align: center;
+    color: #fff;
+    font-family: 'Segoe UI';
+    font-size: 25px;
+    font-weight: bold;
+    font-style: italic;
+    text-decoration: underline;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+
+table {
+    border-collapse: collapse;
+    width: 60%;
+    margin: 0 auto 30px;
+}
+
+td, th  {
+    border: 1px solid black;
+    text-align: center;
+    padding: 15px;
+}
+
+
+table thead {
+    background-color: rgb(18, 18, 94);
+    color: white;
+    font-family: Arial;
+}
+
+.fila-1 {
+    background-color: white;
+    color: #636363;
+    font-family: Verdana;
+}
+
+.fila-2 {
+    background-color: lightgrey;
+    color: black;
+    font-family: 'Gill Sans', 'Gill Sans MT';
+}
+
+.fila-3 {
+    background-color: white;
+    color: #636363;
+    font-family: Impact;
+}
+
+.fila-4 {
+    background-color: lightgrey;
+    color: black;
+    font-family: 'Franklin Gothic Medium';
+}
